@@ -1,0 +1,24 @@
+{
+  "name": "react-at-edge",
+  "version": "1.0.0",
+  "description": "Render react views @edge",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulmanen/react-at-edge.git"
+  },
+  "keywords": [
+    "react",
+    "lambda@edge",
+    "ssr"
+  ],
+  "author": "Samuli Ulmanen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sulmanen/react-at-edge/issues"
+  },
+  "homepage": "https://github.com/sulmanen/react-at-edge#readme"
+}
